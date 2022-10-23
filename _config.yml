@@ -48,69 +48,193 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Taha Iqbal and I'm a Senior Backend Developer. As well as Backend development, I also have experience in AWS Cloud and Middleware ESBs(Mulesoft and Talend). I have worked at a number of companies gaining teamwork and leadership skills. 
+  Hi, my name's Taha Iqbal and I'm a Senior Backend Developer. As well as Backend development, I also have experience in AWS Cloud, Middleware ESBs(Mulesoft and Talend) and Microservices(Rest APIs). I have worked at a number of companies gaining teamwork and leadership skills. 
 
-  I am most skilled in: <mark>Backend Development</mark> and <mark>Automation</mark>
+  I am most skilled in: <mark>Java</mark>, <mark>Mulesoft</mark> and <mark>AWS Cloud</mark>.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+#  - title: Projects # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: top-middle
+#        title: Super awesome project
+#        link: github.com/sproogen
+#        # link_text: Project Website
+#        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+#        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#        description: | # this will include new lines to allow paragraphs
+#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Datacom
+        link: https://datacom.com/
+        link_text: www.datacom.com
+        sub_title: Senior Developer
+        caption: Apr 2022 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Incredibly proud to be working for National Postal service and making difference in lives of Kiwis. Helping NZ Post replacing/retiring core and legacy applications with available latest technologies using Cloud first strategy
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Working in Te Iho project to enhance NZ Post parcel sortation capabilities using latest available technologies.
+            Integration APIs design using `Lucid Chart`, `BPMN`, `RAML` and `Mule CloudHub Exchange`.
+
+            Integration APIs implementation/development by leveraging *Mulesoft API Led Connectivity* architecture pattern using `Anypoint Studio 7`, `MuleSoft 4`, `Mule CloudHub Runtime`, `FTP/SFTP`, `AWS EC2`, `S3` and `MSSQL Server` Database. 
+
+            Helping NZ Post Mule developers to upgrade Mule API deployment processes using `CI` and `CD pipelines` using `Azure DevOps`, `Maven` and `CloudHub`.
+
+            On-going Production Support of critical Mule APIs and issue resolution.
+
+      - layout: left
+        title: Bank of New Zealand
+        link: https://www.bnz.co.nz/
+        link_text: www.bnz.co.nz
+        sub_title: DevOps Engineer
+        caption: Apr 2020 - Apr 2022 - 2yrs 1mo
+        quote: >
+          Helped BNZ internal Customers by producing solutions that are secure and solves critical problem
+        description: | # this will include new lines to allow paragraphs
+            Deployed, 24x7 Support and Monitored Enterprise Applications having critical up-time requirement using `AWS CloudFormation`, `AWS Lambda`, `Hashicorp Terraform`, `Jenkins Pipeline`, `Redhat Ansible`, `CI/CD`, `Python`, `PowerShell` and `Bash`.
+
+            Conducted AWS Cloud Security Infrastructure remediation on AWS Accounts based on CSAM Security Assessment guidelines.
+
+            Uplifted BNZ Finance and Procure to Pay(P2P) department capability by synchronising Purchase Orders, Invoices and related Assets from [SAP](https://www.sap.com/) system to [Coupa Procurement System(SaaS)](https://www.coupa.com/). Designed, developed and deployed Integration Solution using Mulesoft 4, Anypoint Studio 7, Restful APIs, SAP BAPIs, Python, Openshift, and Unix scripting.
+
+      - layout: left
+        title: OSS Group Ltd
+        link: https://www.oss-group.co.nz/
+        link_text: www.oss-group.co.nz
+        sub_title: Software Architect
+        caption: Jul 2016 - Apr 2020 - 3yrs 10mos
+        quote: >
+          Great Clients, awesome Team and mentors makes it breeze to solve business problems
+        description: | # this will include new lines to allow paragraphs
+            Rolled out latest `Talend` Middleware to replace existing legacy Middlware solution in Tower Insurance.
+            Worked as an Integration Architect to design and deliver end to end Data Migration and Integration Solution for Tower Insurance using `Talend` Middleware. 
+            Developed `data pipelines` to migrate and/or synchorinse data from on-prem Databases to Cloudera Enterprise Platform for data analysis and reporting.
+            
+            Delivered middle-ware Integration Project for Mitre10 that provides integration between customer data and retail data to a Marketing product, using `Mulesoft 3.8.2`, `Rabbit MQ` and `MySQL`. Project scope was to integrate with Marketing product from various data sources including `FTP`, `SFTP`, `Amazon S3`, `RabbitMQ`, `MySQL`, `XML/CSV/JSON/SOAP` and `Rest APIs`.
+            
+            Worked as a consultant to rollout `Kong API Gateway` for SKY TV. Conducted *workshops, training of product, user, product guides/docs*, integrate existing `microservices applications` with `Kong API Gateway`.
+
+            Successfully delivered Integration Solution between Student Management System(SMS) and [Canvas Learning Management System(LMS)](https://www.instructure.com/en-au/canvas) for [MIT(Manukau Institute of Technology)](https://www.manukau.ac.nz/).
+            
+            `R` language for Data Analysis and `Apache NiFi` for Data logistics.
+
+      - layout: left
+        title: Folio3 Software
+        link: https://www.folio3.com/
+        link_text: www.folio3.com
+        sub_title: Lead Software Engineer
+        caption: Jul 2015 - May 2016 - 11mos
+        quote: >
+          Leadership responsibilities and mentoring of Junior developers
+        description: | # this will include new lines to allow paragraphs
+            Developed Intelligent Automation Chatbot project (Qlue, later acquired by ServiceNow) using `Java 8`, `Dropwizard 0.9.2`, `Jetty` and `PostgreSQL`. Used `Jenkins` for `CI/CD` using `Docker Containers`. Worked on Integration of project with [Salesforce CRM](https://www.salesforce.com).
+
+            Produced comprehensive "deployment automation strategy" for `Micro services` using `shell scripting`, `Docker`, `Gradle`, `Git` and `Jenkins`.
+
+            *Line management duties, interviews, training and mentoring of junior developers*.
+
+            Support for ongoing `Java` projects.
+
+      - layout: left
+        title: Folio3 Software
+        link: https://www.folio3.com/
+        link_text: www.folio3.com
+        sub_title: Senior Software Engineer
+        caption: Jan 2014 - Jul 2015 - 1yr 7mos
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            Led the team of Backend Java developers that delivered automation of Business process of Feed yard Log management system for Zoetis. Designed Restful web service architecture(SOA) using Apache CXF, Spring 3.0, Jackson, JSON, AngularJS and MySQL.
+
+            Developed several modules of Log management project including integration with external system(s), Database modelling, Security and Integrity of web services and project delivery.
+
+      - layout: left
+        title: Folio3 Software
+        link: https://www.folio3.com/
+        link_text: www.folio3.com
+        sub_title: Software Engineer
+        caption: Nov 2012 - Jan 2014 - 1yr 3mos
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            Worked on "Consumer Portal" developed using Java 7, Spring 3.0.2, Struts2, MySql/SQL Server, Hibernate. Reporting using Jasper reports.
+
+            Hands on experience in designing UI/UX using HTML, CSS, Jquery 2.x, Ajax, JSP, Velocity. 
+
+            Researched various issues day in and day out to find the best solution needed. 
+
+      - layout: left
+        title: Systems Limited
+        link: https://www.systemsltd.com/
+        link_text: www.systemsltd.com
+        sub_title: Software Engineer
+        caption: May 2012 - Oct 2012 - 6mos
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            Managed and supported legacy codebase written in Java 6, JBoss, JSF, RichFaces4, MSSQLServer and SVN.
+            Business Reporting using Eclipse BIRT Tool.
+
+      - layout: left
+        title: Kalsoft
+        link: https://kalsoft.com/
+        link_text: kalsoft.com
+        sub_title: Software Engineer
+        caption: Feb 2011 - May 2012 - 1yr 4mos
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            Worked as a developer on SaaS SOA Architecture to expose Restful web services to Mobile and browser clients using Apache CXF, Spring MVC, MySQL, SVN and Apache Tomcat.
+            
+            Implementation of business logic, efficient code writing practices and design patterns.
+            
+            Database development using MySQL.           
+
+      - layout: left
+        title: VectraCom
+        link: https://vectracom.com/
+        link_text: vectracom.com
+        sub_title: Intern
+        caption: Sep 2011 - Nov 2012 - 3mos
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            Worked as a researcher for the Industry University Collaboration Programme for Natural Language Processing project.
+            Researched on Morphological Analyser for Natural Language. Conversion of row Natural Language data to formatted XML using Python scripting.             
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: University of Karachi
+        caption: 2007 - 2010
+        sub_title: BS Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Programming, Networking courses and Sports(why not!)
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Graduated with majors in Software Engineering. Courses include Data structures, Programming, System analysis and design, Linear Algebra and Statistical methods.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      Alongside my interests in programming and software engineering some of my other interests and hobbies are:
+      - Hiking
+      - Table Tennis
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#      Look at this cool image  
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
