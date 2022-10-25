@@ -155,9 +155,9 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            Led the team of Backend Java developers that delivered automation of Business process of Feed yard Log management system for Zoetis. Designed Restful web service architecture(SOA) using Apache CXF, Spring 3.0, Jackson, JSON, AngularJS and MySQL.
+            Led the team of Backend Java developers that delivered automation of Business process of Feed yard Log management system for Zoetis. Designed `Restful web service architecture(SOA)` using `Apache CXF`, `Spring 3.0`, `Jackson`, `JSON`, `AngularJS` and `MySQL`.
 
-            Developed several modules of Log management project including integration with external system(s), Database modelling, Security and Integrity of web services and project delivery.
+            Developed several modules of Log management project including integration with external system(s), `Database modelling`, `Security` and Integrity of web services and project delivery.
 
       - layout: left
         title: Folio3 Software
@@ -168,9 +168,9 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            Worked on "Consumer Portal" developed using Java 7, Spring 3.0.2, Struts2, MySql/SQL Server, Hibernate. Reporting using Jasper reports.
+            Worked on "Consumer Portal" developed using `Java 7`, `Spring 3.0.2`, `Struts 2`, `MySql/SQL Server`, `Hibernate`. Reporting using `Jasper reports`.
 
-            Hands on experience in designing UI/UX using HTML, CSS, Jquery 2.x, Ajax, JSP, Velocity. 
+            Hands on experience in designing UI/UX using `HTML`, `CSS`, `Jquery 2.x`, `Ajax`, `JSP` and `Velocity` templates. 
 
             Researched various issues day in and day out to find the best solution needed. 
 
@@ -183,8 +183,8 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            Managed and supported legacy codebase written in Java 6, JBoss, JSF, RichFaces4, MSSQLServer and SVN.
-            Business Reporting using Eclipse BIRT Tool.
+            Managed and supported legacy codebase written in `Java 6`, `JBoss`, `JSF`, `RichFaces4`, `MSSQLServer` and `SVN`.
+            Business Reporting using `Eclipse BIRT Tool`.
 
       - layout: left
         title: Kalsoft
@@ -195,11 +195,11 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            Worked as a developer on SaaS SOA Architecture to expose Restful web services to Mobile and browser clients using Apache CXF, Spring MVC, MySQL, SVN and Apache Tomcat.
+            Worked as a developer on `SaaS` `SOA Architecture` to expose Restful web services to Mobile and browser clients using `Apache CXF`, `Spring MVC`, `MySQ`L, `SVN` and `Apache Tomcat`.
             
             Implementation of business logic, efficient code writing practices and design patterns.
             
-            Database development using MySQL.           
+            Database development using `MySQL`.           
 
       - layout: left
         title: VectraCom
@@ -211,7 +211,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
             Worked as a researcher for the Industry University Collaboration Programme for Natural Language Processing project.
-            Researched on Morphological Analyser for Natural Language. Conversion of row Natural Language data to formatted XML using Python scripting.             
+            Researched on Morphological Analyser for Natural Language. Conversion of row Natural Language data to formatted XML using `Python scripting`.             
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -223,7 +223,7 @@ content:
         quote: >
           Programming, Networking courses and Sports(why not!)
         description: | # this will include new lines to allow paragraphs
-          Graduated with majors in Software Engineering. Courses include Data structures, Programming, System analysis and design, Linear Algebra and Statistical methods.
+          Graduated with majors in Software Engineering. Courses include <mark>Data structures<mark>, <mark>Programming<mark>, <mark>System analysis and design<mark>, <mark>Linear Algebra and Statistical methods<mark>.
 
   - title: A Little More About Me
     layout: text
