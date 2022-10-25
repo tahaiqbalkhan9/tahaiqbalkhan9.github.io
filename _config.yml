@@ -50,7 +50,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Taha Iqbal and I'm a Senior Backend Developer. As well as Backend development, I also have experience in AWS Cloud, Middleware ESBs(Mulesoft and Talend) and Microservices(Rest APIs). I have worked at a number of companies gaining teamwork and leadership skills. 
 
-  I am most skilled in: <mark>Java</mark>, <mark>Mulesoft</mark> and <mark>AWS Cloud</mark>.
+  I can gather ,analyse and consolidate information into a set of requirements by iterative architecture design approach in consultation with stakeholders which fits into an organisation's technical landscape.
+
+  I have also helped organisations modernise their core & legacy solutions using latest available technologies including Cloud.
+
+  I am most skilled in: <mark>Backend Development</mark>, <mark>Integration</mark> and <mark>DevOps</mark>.
 
 content:
 #  - title: Projects # Title for the section
@@ -251,10 +255,11 @@ content:
       Alongside my interests in programming and software engineering some of my other interests and hobbies are:
       - Hiking
       - Table Tennis
-      - Figuring out [If Earth's Actually Flat?](https://www.youtube.com/watch?v=VNqNnUJVcVs)
+      - Figuring out [if Earth's actually flat?](https://www.youtube.com/watch?v=VNqNnUJVcVs)
+      - Enjoying day trips in beautiful New Zealand
 
-#      Look at this cool image  
-#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Look at this cool image  
+      ![Nature](/images/IMG_6688.jpeg "Nature")
 
 # Footer
 footer_show_references: true
