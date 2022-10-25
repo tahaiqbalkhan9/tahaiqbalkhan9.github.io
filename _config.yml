@@ -76,6 +76,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Datacom
         link: https://datacom.com/
         link_text: www.datacom.com
@@ -94,6 +95,7 @@ content:
             On-going Production Support of critical Mule APIs and issue resolution.
 
       - layout: left
+        border: weak
         title: Bank of New Zealand
         link: https://www.bnz.co.nz/
         link_text: www.bnz.co.nz
@@ -104,11 +106,12 @@ content:
         description: | # this will include new lines to allow paragraphs
             Deployed, 24x7 Support and Monitored Enterprise Applications having critical up-time requirement using `AWS CloudFormation`, `AWS Lambda`, `Hashicorp Terraform`, `Jenkins Pipeline`, `Redhat Ansible`, `CI/CD`, `Python`, `PowerShell` and `Bash`.
 
-            Conducted AWS Cloud Security Infrastructure remediation on AWS Accounts based on CSAM Security Assessment guidelines.
+            Conducted `AWS Cloud Security Infrastructure remediation` on projects `AWS Accounts` based on `CSAM Security Assessment` guidelines.
 
-            Uplifted BNZ Finance and Procure to Pay(P2P) department capability by synchronising Purchase Orders, Invoices and related Assets from [SAP](https://www.sap.com/) system to [Coupa Procurement System(SaaS)](https://www.coupa.com/). Designed, developed and deployed Integration Solution using Mulesoft 4, Anypoint Studio 7, Restful APIs, SAP BAPIs, Python, Openshift, and Unix scripting.
+            Uplifted BNZ Finance and Procure to Pay(P2P) department capability by Integrating [SAP](https://www.sap.com/) system to [Coupa Procurement System(SaaS)](https://www.coupa.com/). Delivered an Integration Solution that synchronises critical datasets such as Purchase Orders, Invoices and related Assets using `Mulesoft 4`, `Anypoint Studio 7`, `Restful APIs`, `SAP BAPIs`, `Python`, `Openshift`, and `Unix scripting`.
 
       - layout: left
+        border: weak
         title: OSS Group Ltd
         link: https://www.oss-group.co.nz/
         link_text: www.oss-group.co.nz
@@ -119,17 +122,18 @@ content:
         description: | # this will include new lines to allow paragraphs
             Rolled out latest `Talend` Middleware to replace existing legacy Middlware solution in Tower Insurance.
             Worked as an Integration Architect to design and deliver end to end Data Migration and Integration Solution for Tower Insurance using `Talend` Middleware. 
-            Developed `data pipelines` to migrate and/or synchorinse data from on-prem Databases to Cloudera Enterprise Platform for data analysis and reporting.
+            Developed `data pipelines` to migrate and/or synchorinse data from on-prem `MSSQL` Databases to `Datalake` established using `Cloudera Enterprise Platform`.
             
-            Delivered middle-ware Integration Project for Mitre10 that provides integration between customer data and retail data to a Marketing product, using `Mulesoft 3.8.2`, `Rabbit MQ` and `MySQL`. Project scope was to integrate with Marketing product from various data sources including `FTP`, `SFTP`, `Amazon S3`, `RabbitMQ`, `MySQL`, `XML/CSV/JSON/SOAP` and `Rest APIs`.
+            Delivered middle-ware Integration Project for Mitre10 that provides integration between customer data and retail data for a Marketing SaaS, using `Mulesoft 3.8.2`, `Rabbit MQ` and `MySQL`. Project scope was to integrate with Marketing product from various data sources including `FTP`, `SFTP`, `Amazon S3`, `RabbitMQ`, `MySQL`, `XML/CSV/JSON/SOAP` and `Rest APIs`.
             
-            Worked as a consultant to rollout `Kong API Gateway` for SKY TV. Conducted *workshops, training of product, user, product guides/docs*, integrate existing `microservices applications` with `Kong API Gateway`.
+            Rolled out `Kong API Gateway` for SKY TV. Conducted *workshops, training of product, user, product guides/docs*, integrate existing `microservices applications` with `Kong API Gateway`.
 
             Successfully delivered Integration Solution between Student Management System(SMS) and [Canvas Learning Management System(LMS)](https://www.instructure.com/en-au/canvas) for [MIT(Manukau Institute of Technology)](https://www.manukau.ac.nz/).
             
             `R` language for Data Analysis and `Apache NiFi` for Data logistics.
 
       - layout: left
+        border: weak
         title: Folio3 Software
         link: https://www.folio3.com/
         link_text: www.folio3.com
@@ -147,6 +151,7 @@ content:
             Support for ongoing `Java` projects.
 
       - layout: left
+        border: weak
         title: Folio3 Software
         link: https://www.folio3.com/
         link_text: www.folio3.com
@@ -160,6 +165,7 @@ content:
             Developed several modules of Log management project including integration with external system(s), `Database modelling`, `Security` and Integrity of web services and project delivery.
 
       - layout: left
+        border: weak
         title: Folio3 Software
         link: https://www.folio3.com/
         link_text: www.folio3.com
@@ -175,6 +181,7 @@ content:
             Researched various issues day in and day out to find the best solution needed. 
 
       - layout: left
+        border: weak
         title: Systems Limited
         link: https://www.systemsltd.com/
         link_text: www.systemsltd.com
@@ -187,6 +194,7 @@ content:
             Business Reporting using `Eclipse BIRT Tool`.
 
       - layout: left
+        border: weak
         title: Kalsoft
         link: https://kalsoft.com/
         link_text: kalsoft.com
@@ -202,6 +210,7 @@ content:
             Database development using `MySQL`.           
 
       - layout: left
+        border: weak
         title: VectraCom
         link: https://vectracom.com/
         link_text: vectracom.com
@@ -213,6 +222,17 @@ content:
             Worked as a researcher for the Industry University Collaboration Programme for Natural Language Processing project.
             Researched on Morphological Analyser for Natural Language. Conversion of row Natural Language data to formatted XML using `Python scripting`.             
 
+  - title: Certifications 
+    layout: text 
+    border: weak
+    content: | 
+      - *(In Progress) MuleSoft Certified Integration Architect - Level 1*
+      - MuleSoft Certified Developer - Level 1(Mule 4)
+      - ICAgile Certified Professional
+      - AWS Certified Cloud Practitioner (CLF)  
+      - AWS Technical Professional Digital
+            
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -223,7 +243,7 @@ content:
         quote: >
           Programming, Networking courses and Sports(why not!)
         description: | # this will include new lines to allow paragraphs
-          Graduated with majors in Software Engineering. Courses include <mark>Data structures</mark>, <mark>Programming</mark>, <mark>System analysis and design</mark>, <mark>Linear Algebra and Statistical methods</mark>.
+          Graduated with majors in <mark>Software Engineering</mark>. Courses include <mark>Data structures</mark>, <mark>Programming</mark>, <mark>System analysis and design</mark>, <mark>Linear Algebra</mark> and <mark>Statistical methods</mark>.
 
   - title: A Little More About Me
     layout: text
