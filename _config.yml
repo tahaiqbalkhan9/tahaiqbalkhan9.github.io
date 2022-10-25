@@ -82,7 +82,7 @@ content:
         sub_title: Senior Developer
         caption: Apr 2022 - Present
         quote: >
-          Incredibly proud to be working for National Postal service and making difference in lives of Kiwis. Helping NZ Post replacing/retiring core and legacy applications with available latest technologies using Cloud first strategy
+          Incredibly proud to be working for New Zealand National Postal service and making difference in lives of Kiwis. Helping NZ Post replacing/retiring core and legacy applications with available latest technologies using Cloud first strategy
         description: | # this will include new lines to allow paragraphs
             Working in Te Iho project to enhance NZ Post parcel sortation capabilities using latest available technologies.
             Integration APIs design using `Lucid Chart`, `BPMN`, `RAML` and `Mule CloudHub Exchange`.
@@ -223,7 +223,7 @@ content:
         quote: >
           Programming, Networking courses and Sports(why not!)
         description: | # this will include new lines to allow paragraphs
-          Graduated with majors in Software Engineering. Courses include <mark>Data structures<mark>, <mark>Programming<mark>, <mark>System analysis and design<mark>, <mark>Linear Algebra and Statistical methods<mark>.
+          Graduated with majors in Software Engineering. Courses include <mark>Data structures</mark>, <mark>Programming</mark>, <mark>System analysis and design</mark>, <mark>Linear Algebra and Statistical methods</mark>.
 
   - title: A Little More About Me
     layout: text
