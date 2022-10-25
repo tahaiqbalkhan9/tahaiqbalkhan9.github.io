@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Taha Iqbal and I'm a Senior Backend Developer. As well as Backend development, I also have experience in AWS Cloud, Middleware ESBs(Mulesoft and Talend) and Microservices(Rest APIs). I have worked at a number of companies gaining teamwork and leadership skills. 
 
-  I can gather ,analyse and consolidate information into a set of requirements by iterative architecture design approach in consultation with stakeholders which fits into an organisation's technical landscape.
+  I can gather ,analyse and consolidate information into a set of requirements by iterative architecture design approach in consultation with stakeholders, design and develop solutions which fits into an organisation's technical landscape.
 
   I have also helped organisations modernise their core & legacy solutions using latest available technologies including Cloud.
 
@@ -112,7 +112,7 @@ content:
 
             Conducted `AWS Cloud Security Infrastructure remediation` on projects `AWS Accounts` based on `CSAM Security Assessment` guidelines.
 
-            Uplifted BNZ Finance and Procure to Pay(P2P) department capability by Integrating [SAP](https://www.sap.com/) system to [Coupa Procurement System(SaaS)](https://www.coupa.com/). Delivered an Integration Solution that synchronises critical datasets such as Purchase Orders, Invoices and related Assets using `Mulesoft 4`, `Anypoint Studio 7`, `Restful APIs`, `SAP BAPIs`, `Python`, `Openshift`, and `Unix scripting`.
+            Uplifted BNZ Finance and Procure to Pay(P2P) department capability by Integrating [SAP](https://www.sap.com/) system to [Coupa Procurement System(SaaS)](https://www.coupa.com/). Delivered an Integration Solution that synchronises critical datasets such as Purchase Orders, Invoices and related Assets using `Mulesoft 4`, `Anypoint Studio 7`, `Restful APIs`, `SAP BAPIs`, `Python`, `Openshift`, and `Unix scripting`. Business and log analytics using [Splunk](https://www.splunk.com).
 
       - layout: left
         border: weak
@@ -130,7 +130,7 @@ content:
             
             Delivered middle-ware Integration Project for Mitre10 that provides integration between customer data and retail data for a Marketing SaaS, using `Mulesoft 3.8.2`, `Rabbit MQ` and `MySQL`. Project scope was to integrate with Marketing product from various data sources including `FTP`, `SFTP`, `Amazon S3`, `RabbitMQ`, `MySQL`, `XML/CSV/JSON/SOAP` and `Rest APIs`.
             
-            Rolled out `Kong API Gateway` for SKY TV. Conducted *workshops, training of product, user, product guides/docs*, integrate existing `microservices applications` with `Kong API Gateway`.
+            Rolled out `Kong API Gateway` for SKY TV. Conducted *workshops, training of product, user, product guides/docs*, integrate existing `microservices applications` with `Kong API Gateway`. Implemented [ELK Stack](https://www.elastic.co/) for log analysis and reporting.
 
             Successfully delivered Integration Solution between Student Management System(SMS) and [Canvas Learning Management System(LMS)](https://www.instructure.com/en-au/canvas) for [MIT(Manukau Institute of Technology)](https://www.manukau.ac.nz/).
             
@@ -235,6 +235,10 @@ content:
       - ICAgile Certified Professional
       - AWS Certified Cloud Practitioner (CLF)  
       - AWS Technical Professional Digital
+      - Talend Data Quality Essentials
+      - Talend Master Data Management Basics
+      - Talend 6.0 ESB Basics, Talend 6.2 DI Basics(DI-101-v62) & 6.2 DI Advanced(DI-102-v62)
+      - PH125.1x: Data Science: R Basics
             
 
   - title: Education # Title for the section
@@ -255,8 +259,8 @@ content:
       Alongside my interests in programming and software engineering some of my other interests and hobbies are:
       - Hiking
       - Table Tennis
-      - Figuring out [if Earth's actually flat?](https://www.youtube.com/watch?v=VNqNnUJVcVs)
-      - Enjoying day trips in beautiful New Zealand
+      - Figuring out [if Earth's actually flat](https://www.youtube.com/watch?v=VNqNnUJVcVs)?
+      - Enjoy day trips in beautiful New Zealand
 
       Look at this cool image  
       ![Nature](/images/IMG_6688.jpeg "Nature")
