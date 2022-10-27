@@ -31,9 +31,14 @@ linkedin_username: tiqbal9
 
 # Additional icon links
 additional_links:
+- title: Blog
+  icon: fas fa-blog
+  url: https://www.iqbalt.com/blog
+
 - title: Pdf Download
   icon: far fa-file-pdf
   url: https://www.iqbalt.com/resources/TahaIqbal-cv.pdf
+
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
