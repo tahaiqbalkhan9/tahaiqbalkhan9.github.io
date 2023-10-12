@@ -86,6 +86,21 @@ content:
     content:
       - layout: left
         border: weak
+        title: MLC Life Insurance
+        link: https://www.mlcinsurance.com.au
+        link_text: www.mlcinsurance.com.au
+        sub_title: Senior Developer
+        caption: May 2023 - Present
+        quote: >
+          Migrated to this beautiful country and trying to settle down. Incredible people with deiverse weather
+        description: | # this will include new lines to allow paragraphs
+            Further enhancing my Development, Integration and Architecture skills to overcome critical problems faced by organisation.
+
+            Integration APIs design using `Lucid Chart`, `BPMN`, `RAML` and `Mule CloudHub Exchange`.
+
+            On-going Production Support of critical Business processes, troubleshooting and crafting engineering fixes to overcome problems faced by Business. 
+      - layout: left
+        border: weak
         title: Datacom
         link: https://datacom.com/
         link_text: www.datacom.com
@@ -94,7 +109,7 @@ content:
         quote: >
           Incredibly proud to be working for New Zealand National Postal service and making difference in lives of Kiwis. Helping NZ Post replacing/retiring core and legacy applications with available latest technologies using Cloud first strategy
         description: | # this will include new lines to allow paragraphs
-            Working in Te Iho project to enhance NZ Post parcel sortation capabilities using latest available technologies.
+            Worked in Te Iho project to enhance NZ Post parcel sortation capabilities using latest available technologies.
             Integration APIs design using `Lucid Chart`, `BPMN`, `RAML` and `Mule CloudHub Exchange`.
 
             Integration APIs implementation/development by leveraging *Mulesoft API Led Connectivity* architecture pattern using `Anypoint Studio 7`, `MuleSoft 4`, `Mule CloudHub Runtime`, `FTP/SFTP`, `AWS EC2`, `S3` and `MSSQL Server` Database. 
